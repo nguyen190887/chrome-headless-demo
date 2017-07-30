@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# auto generated files
+output.png
+requests.txt

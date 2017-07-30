@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --headless --remote-debugging-port=9222 --user-data-dir="D:\Labs\ChromeHeadless\data-dir"
